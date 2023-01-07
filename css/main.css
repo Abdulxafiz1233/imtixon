@@ -72,6 +72,9 @@ a{
      padding-left: 200px; 
      margin-right:150px ; 
 }
+.nav-hover:hover{
+    color: rgba(38, 50, 56, 0.73);
+}
 
 
 
@@ -432,6 +435,11 @@ margin-top: 10px;
 .padding188{
     padding-top: 188px;
 }
+/* main qismi boshladi */
+
+
+
+/* footer qismi boshladi */
 form button {
     background-color: var(--main-silver);
     height: 60px;
@@ -476,6 +484,7 @@ form input {
     
         color: #8F95A5;
 }
+/* footer qismi tugadi */
 
 
 
@@ -497,5 +506,3 @@ form input {
 
 
 
-
-/* main qismi boshladi */
